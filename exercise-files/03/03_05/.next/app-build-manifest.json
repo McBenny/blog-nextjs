@@ -22,15 +22,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/blog/layout.js"
     ],
-    "/blog/contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog/contact/page.js"
-    ],
     "/blog/about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/blog/about/page.js"
+    ],
+    "/blog/contact/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blog/contact/page.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
